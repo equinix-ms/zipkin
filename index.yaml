@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  zipkin-server:
+  - apiVersion: v2
+    appVersion: 2.21.0
+    created: "2021-12-03T13:06:31.511942692Z"
+    description: a distributed tracing system
+    digest: c266e22326713339dcff96f4f3c195aff2b3b9460e54ea7a2aa070a78349cbb7
+    name: zipkin-server
+    type: application
+    urls:
+    - https://github.com/equinix-ms/zipkin/releases/download/zipkin-server-0.1.4/zipkin-server-0.1.4.tgz
+    version: 0.1.4
+generated: "2021-12-03T13:06:31.511948492Z"
